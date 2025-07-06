@@ -1,0 +1,2 @@
+This task demonstrates Stored Procedures and Functions in MySQL for reusable SQL blocks. We created a stored procedure GetEmployeesByDepartment to fetch employees of a department dynamically using parameters. We also created a function CalculateAnnualSalary to compute annual salary, showing how to use functions inside SELECT queries. These tools help reuse logic, improve security, and simplify repetitive database operations in projects.
+
